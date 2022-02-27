@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\AlphaHelper\Facades;
+namespace Favinblockchain\AlphaHelper\Facades;
 
 /**
  * Class AlphaHelper
@@ -15,7 +15,7 @@ namespace Sinarajabpour1998\AlphaHelper\Facades;
  * @method static string makeHash(string $string)
  * @method static string getSettingsKey(string $key)
  *
- * @see \Sinarajabpour1998\AlphaHelper\Helpers\Helper
+ * @see \Favinblockchain\AlphaHelper\Helpers\Helper
  */
 
 class AlphaHelper extends BaseFacade

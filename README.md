@@ -1,8 +1,8 @@
 # Laravel Alpha Helper
-[![GitHub issues](https://img.shields.io/github/issues/sinarajabpour1998/alpha-helper?style=flat-square)](https://github.com/sinarajabpour1998/alpha-helper/issues)
-[![GitHub stars](https://img.shields.io/github/stars/sinarajabpour1998/alpha-helper?style=flat-square)](https://github.com/sinarajabpour1998/alpha-helper/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sinarajabpour1998/alpha-helper?style=flat-square)](https://github.com/sinarajabpour1998/alpha-helper/network)
-[![GitHub license](https://img.shields.io/github/license/sinarajabpour1998/alpha-helper?style=flat-square)](https://github.com/sinarajabpour1998/alpha-helper/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/favinblockchain/alpha-helper?style=flat-square)](https://github.com/favinblockchain/alpha-helper/issues)
+[![GitHub stars](https://img.shields.io/github/stars/favinblockchain/alpha-helper?style=flat-square)](https://github.com/favinblockchain/alpha-helper/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/favinblockchain/alpha-helper?style=flat-square)](https://github.com/favinblockchain/alpha-helper/network)
+[![GitHub license](https://img.shields.io/github/license/favinblockchain/alpha-helper?style=flat-square)](https://github.com/favinblockchain/alpha-helper/blob/master/LICENSE)
 
 ### Quick links
 
@@ -26,7 +26,7 @@
 
 ```
 
-composer require sinarajabpour1998/alpha-helper
+composer require favinblockchain/alpha-helper
 
 ```
 

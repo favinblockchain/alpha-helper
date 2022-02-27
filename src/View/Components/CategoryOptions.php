@@ -1,11 +1,11 @@
 <?php
 
-namespace Sinarajabpour1998\AlphaHelper\View\Components;
+namespace Favinblockchain\AlphaHelper\View\Components;
 
 use App\Models\Category;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
-use Sinarajabpour1998\AlphaHelper\Facades\CategoryHelperFacade;
+use Favinblockchain\AlphaHelper\Facades\CategoryHelperFacade;
 
 class CategoryOptions extends Component
 {

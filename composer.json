@@ -1,5 +1,5 @@
 {
-  "name": "sinarajabpour1998/alpha-helper",
+  "name": "favinblockchain/alpha-helper",
   "description": "Provides helper functions and validators in laravel.",
   "keywords": [
     "laravel",
@@ -24,7 +24,7 @@
     "category"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/sinarajabpour1998/alpha-helper",
+  "homepage": "https://github.com/favinblockchain/alpha-helper",
   "authors": [
     {
       "name": "Sina Rajabpour",
@@ -37,7 +37,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Sinarajabpour1998\\AlphaHelper\\": "src/"
+      "Favinblockchain\\AlphaHelper\\": "src/"
     },
     "files": [
       "src/Helpers/helpers.php"
@@ -46,10 +46,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Sinarajabpour1998\\AlphaHelper\\AlphaHelperServiceProvider"
+        "Favinblockchain\\AlphaHelper\\AlphaHelperServiceProvider"
       ],
       "aliases": {
-        "AlphaHelper" : "Sinarajabpour1998\\AlphaHelper\\Facades\\AlphaHelper"
+        "AlphaHelper" : "Favinblockchain\\AlphaHelper\\Facades\\AlphaHelper"
       }
     }
   }

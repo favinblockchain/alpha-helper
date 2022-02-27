@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\AlphaHelper\Facades;
+namespace Favinblockchain\AlphaHelper\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

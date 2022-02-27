@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\AlphaHelper\Helpers;
+namespace Favinblockchain\AlphaHelper\Helpers;
 
 use Illuminate\Contracts\Encryption\DecryptException;
 use Illuminate\Contracts\Encryption\EncryptException;

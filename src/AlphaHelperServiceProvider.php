@@ -1,14 +1,14 @@
 <?php
 
-namespace Sinarajabpour1998\AlphaHelper;
+namespace Favinblockchain\AlphaHelper;
 
 use Illuminate\Support\ServiceProvider;
-use Sinarajabpour1998\AlphaHelper\Facades\CategoryHelperFacade;
-use Sinarajabpour1998\AlphaHelper\Facades\AlphaHelper;
-use Sinarajabpour1998\AlphaHelper\Helpers\CategoryHelper;
-use Sinarajabpour1998\AlphaHelper\Helpers\Helper;
-use Sinarajabpour1998\AlphaHelper\View\Components\CategoryCheckboxes;
-use Sinarajabpour1998\AlphaHelper\View\Components\CategoryOptions;
+use Favinblockchain\AlphaHelper\Facades\CategoryHelperFacade;
+use Favinblockchain\AlphaHelper\Facades\AlphaHelper;
+use Favinblockchain\AlphaHelper\Helpers\CategoryHelper;
+use Favinblockchain\AlphaHelper\Helpers\Helper;
+use Favinblockchain\AlphaHelper\View\Components\CategoryCheckboxes;
+use Favinblockchain\AlphaHelper\View\Components\CategoryOptions;
 
 class AlphaHelperServiceProvider extends ServiceProvider
 {
