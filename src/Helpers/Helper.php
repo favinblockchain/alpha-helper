@@ -126,7 +126,7 @@ class Helper
             $settings = new $class;
             $model = $settings->getKeyModel($key);
             if(is_null($model)){
-                return Settings::query()->create([
+                return $settings->create([
                     'key' => $key,
                     'value' => null
                 ]);
